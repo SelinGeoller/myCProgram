@@ -1,0 +1,2 @@
+# myCProgram
+C program trainning
